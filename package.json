@@ -1,7 +1,7 @@
 {
   "name": "baileys",
   "version": "6.7.16",
-  "description": "WhatsApp API x Button by PL",
+  "description": "WhatsApp API x Button By Ruzx",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -17,7 +17,7 @@
     "url": "git@github.com:WhiskeySockets/Baileys.git"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "Ruzx FKI",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
